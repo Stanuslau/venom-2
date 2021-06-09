@@ -1,2 +1,3 @@
-# venom-2
-Venom-2
+# Stack of technologies
+- HTML
+- CSS
