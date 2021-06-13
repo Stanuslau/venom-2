@@ -233,4 +233,39 @@ body {
   .film-text {
     text-align: center;
   }
+  .trailer {
+    max-width: 250px;
+  }
+  .poster-wrapper {
+    display: block;
+  }
+  .poster {
+    max-width: 250px;
+    max-height: 400px;
+    margin: auto;
+    display: block;
+  }
+  .creators {
+    display: block;
+    padding-top: 30px;
+  }
+}
+
+@media (max-width: 1064px) {
+  .content {
+    display: block;
+    text-align: center;
+  }
+  .content-text {
+    margin: 16px auto 30px auto;
+  }
+  .column-2 {
+    margin: 16px auto;
+  }
+  .trailer {
+    margin: 33px auto;
+  }
+  .creators {
+    margin: auto;
+  }
 }
